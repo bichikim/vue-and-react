@@ -6,7 +6,8 @@
   "author": "Bichi Kim <bichi@live.co.kr>",
   "license": "MIT",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "build": "next build"
   },
   "dependencies": {
     "next": "^9.5.3",
